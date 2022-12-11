@@ -4,8 +4,8 @@
   "description": "A simple Promise based CRUD connection wrapper to interface with the BigCommerce oAuth API. Automatically re-tries requests that are rate-limited.",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "promise": "^8.0.1",
     "request": "^2.87.0"
   },
